@@ -12,15 +12,15 @@
 * [Riya Gupta](https://github.com/RiyaGupta99)
 
 ## Description
-In this project, we aim to predict the future price of any desired stock/ commodity with Maximum accuracy. We used Machine Learning models for the prediction part. Furthermore, we haqve added functionalities like comparing the prediction of two stocks and prediction over a desirable time-frame.
+In this project, we aim to predict the future price of any desired stock/commodity with Maximum accuracy. We use a Machine Learning models for the prediction part. Furthermore, we have added functionalities like comparing the prediction of two stocks and prediction over a desirable time-frame.
 
-The way this project works is, a user will enter the data of the stock they want to predict. The Historical Data of that stock is fed in the model. The model uses the prediction model to predict the future price of that stock and present it in the form of Chart. The user can compare this chart with prediction of other stocks and make the best decision.  
+The way this project works is, a user will enter the data of the stock they want to predict. The Historical Data of that stock is fed in the model. The model predicts the future price of that stock using algorithms and present it in the form of Chart. The user can compare this chart with prediction of other stocks and make the best decision.  
 
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 
-* GitHub repo link: [Link to repository](https://github.com/your-repo-link)
+* GitHub repo link: [Link to repository](https://github.com/rohansawai/StockPredictor)
 * Drive link: [Drive link here](https://drive.google.com/)
-* Website link: [Website link here](www.google.com)
+* Website link: [Website link here](https://stockrr-app.herokuapp.com/home)
 
 ## Technology stack
 1. Python
