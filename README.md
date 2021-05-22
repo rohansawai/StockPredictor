@@ -1,9 +1,6 @@
 
 # Project-name
-<p align="center">
-        
-    <h1>Stock Predictor</h1>
-</p>
+  <h1 align="center">Stock Predictor</h1>
 
 ## Team members
 * [Rohan Sawai](https://github.com/rohansawai)
