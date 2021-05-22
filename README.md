@@ -1,6 +1,3 @@
-Use this template as a guide for writing your submission doc. Feel free to customize and adapt it for your project. There is no compulsion to stick with this format or to include all the sections.
-
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
 
 # Project-name
 <p align="center">
@@ -15,22 +12,12 @@ For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-
 * Shivam Karpe
 
 ## Mentors
-* Riya Gupta
+* [Riya Gupta](https://github.com/RiyaGupta99)
 
 ## Description
 In this project, we aim to predict the future price of any desired stock/ commodity with Maximum accuracy. We used Machine Learning models for the prediction part. Furthermore, we haqve added functionalities like comparing the prediction of two stocks and prediction over a desirable time-frame.
 
 The way this project works is, a user will enter the data of the stock they want to predict. The Historical Data of that stock is fed in the model. The model uses the prediction model to predict the future price of that stock and present it in the form of Chart. The user can compare this chart with prediction of other stocks and make the best decision.  
-
-Add your project description here. Your project description should cover how your project works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
-
-* Use bullet points for any feature descriptions you may want to add
-
-```bash
-    Add appropriate code snippets here (4 spaces indent)
-```
-
-Don't forget to replace the link here with **_your own Github repository_** link.
 
 Along with this, add the link of the drive folder that contains the app APK/Screenshots/Screen Recordings. If you have hosted your project on the web, add that link as well.
 
