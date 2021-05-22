@@ -29,6 +29,7 @@ Along with this, add the link of the drive folder that contains the app APK/Scre
 4. JavaScript
 5. React.js
 6. MongoDB
+7. ML
 
 
 ## Applications
