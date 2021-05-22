@@ -2,7 +2,7 @@
 # Project-name
 <p align="center">
         
-    Stock Predictor
+    <h1>Stock Predictor</h1>
 </p>
 
 ## Team members
