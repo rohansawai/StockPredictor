@@ -13,12 +13,11 @@ For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-
 * Vishal Patil
 * Shivam Karpe
 
-
 ## Mentors
 * Riya Gupta
 
-
 ## Description
+
 
 
 Add your project description here. Your project description should cover how your project works. That way you can convey what your project is without the need for anyone to view the code. A more detailed readme in your project repository is encouraged, which can include build and use instructions etc.
@@ -53,8 +52,11 @@ Tools and technologies that you learnt and used in the project.
 
 Each team member and mentor can briefly describe what they learnt during Skill Up 2.0, how they applied it to their project and what challenges they faced.
 
-1. Member 1 name - Description
-2. Member 2 name - Description
+1. Rohan Sawai: It was an incredible experience for me. I got to learn how Machine Learning and Artificial intelligence can be used in Finance. Working on this project helped me improve my skills such as time-management, effective-communicaton. I would also thank our mentor for guiding us at every problem. Overall, it was an amazing experience.
+2. Santanu Kumar:
+3. Vishal Patil:
+4. Shivam Karpe:
+
 ## Future scope
 >Mention ways in which the project can be improved and built upon in the future.
 
