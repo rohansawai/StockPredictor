@@ -43,7 +43,7 @@ This project can be used by Banks, Brokarage houses and also Retail Traders to u
 
 3. Vishal Patil:
 
-4. Shivam Karpe:
+4. Shivam Karpe: Working on this Project was a great experience as I learnt how ML works and what keeps the model work so accurately. It gave me a lot more idea of what we can do with the help of Internet and how the financial world may work in the coming years. This helped me to learn how to work with different platforms effectively and efficiently.
 
 
 ## Future scope
